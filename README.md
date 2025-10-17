@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1      Backend Setup (Python + FastAPI)
 
 Navigate to backend folder:
@@ -61,3 +62,6 @@ npm start
 Frontend will open automatically at: http://localhost:3000
 
 React communicates with backend at: http://localhost:8000
+=======
+# AI-Email-Reply-Assistant
+>>>>>>> 167282e6ed0b2d2be6a69ce464c20a62d6bdaea2
